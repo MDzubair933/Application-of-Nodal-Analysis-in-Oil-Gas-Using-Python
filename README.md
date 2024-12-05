@@ -1,2 +1,2 @@
-# Application-of-Nodal-Analysis-in-Oil-Gas-Using-Python
-Developed a program that conducts a Pressure Buildup Test, using the resulting well test data to calculate reservoir permeability and skin factor.
+# Application of Nodal Analysis in Oil Gas Using Python
+Developed a sophisticated program to analyze well data, enabling the determination of optimal bottom hole pressure and flow rate. The program also visualizes Inflow Performance Relationship (IPR) and Tubing Performance Relationship (TPR) curves, facilitating the identification of the well’s optimal operating point for improved production efficiency.
